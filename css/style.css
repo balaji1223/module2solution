@@ -33,15 +33,15 @@ section>h2 {
     padding-top: 10px;
 }
 
-section.importance>h2 {
+section.HTML>h2 {
     background-color: #008080;
 }
 
-section.what>h2 {
+section.CSS>h2 {
     background-color: #ffd1dc;
 }
 
-section.todo>h2 {
+section.Javascript>h2 {
     background-color: #77dd77;
 }
 
